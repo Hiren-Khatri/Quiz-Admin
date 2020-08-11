@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "209251186355",
+    "firebase_url": "https://vatsalya-coaching-academ-e96aa.firebaseio.com",
+    "project_id": "vatsalya-coaching-academ-e96aa",
+    "storage_bucket": "vatsalya-coaching-academ-e96aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209251186355:android:2b5cd837c3403c856662c6",
+        "android_client_info": {
+          "package_name": "app.com.VatsalyaCoachingAcademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209251186355-odrd8j9dqg729ufna6gjk99uvh8lshft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.VatsalyaCoachingAcademy",
+            "certificate_hash": "b49ef70576f524643ddd8cf8ed01416345a2345b"
+          }
+        },
+        {
+          "client_id": "209251186355-jiqtrg9jbg1400gji2a4c2hiu3lj8e8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.VatsalyaCoachingAcademy",
+            "certificate_hash": "01b8f62c38209b4e72b8cd6bd8854f94969c9aad"
+          }
+        },
+        {
+          "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe4ZP73kyoOqTUndx0uM6PTBaZ537T50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209251186355:android:308877793868cac46662c6",
+        "android_client_info": {
+          "package_name": "com.example.quizadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209251186355-a6ouqk0a56os7mmg29b6ff4ojiosoprd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizadmin",
+            "certificate_hash": "b49ef70576f524643ddd8cf8ed01416345a2345b"
+          }
+        },
+        {
+          "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe4ZP73kyoOqTUndx0uM6PTBaZ537T50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209251186355:android:58d32c118a9f04cc6662c6",
+        "android_client_info": {
+          "package_name": "com.example.vatsalyaacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209251186355-ekth0eqo9pgjljut0qe9rtkqkqv5up1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vatsalyaacademy",
+            "certificate_hash": "b49ef70576f524643ddd8cf8ed01416345a2345b"
+          }
+        },
+        {
+          "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe4ZP73kyoOqTUndx0uM6PTBaZ537T50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209251186355:android:b914ca0b6d3a155f6662c6",
+        "android_client_info": {
+          "package_name": "com.example.vatsalyacoachingacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209251186355-1tp67o1uhbt2sfcgt2lpnqeo1gcaln1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vatsalyacoachingacademy",
+            "certificate_hash": "b49ef70576f524643ddd8cf8ed01416345a2345b"
+          }
+        },
+        {
+          "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe4ZP73kyoOqTUndx0uM6PTBaZ537T50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209251186355-en6eqf800qsetap3gt5q7qu8s7nhf851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
